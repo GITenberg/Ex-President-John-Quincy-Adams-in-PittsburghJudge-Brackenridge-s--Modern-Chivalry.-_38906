@@ -1,0 +1,37 @@
+_repo: Ex-President-John-Quincy-Adams-in-PittsburghJudge-Brackenridge-s--Modern-Chivalry.-_38906
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38906-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Adams, John Quincy
+    birthdate: 1767
+    deathdate: 1848
+    gutenberg_agent_id: '460'
+    url: http://www.gutenberg.org/2009/agents/460
+    wikipedia: http://en.wikipedia.org/wiki/John_Quincy_Adams
+  - agent_name: McCandless, Wilson
+    alias: M'Candless, Wilson
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '39708'
+    url: http://www.gutenberg.org/2009/agents/39708
+description: ''
+gutenberg_issued: '2012-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38906'
+  lccn: 07021491
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Adams, John Quincy, 1767-1848'
+- !lcsh 'Brackenridge, Hugh Henry, 1748-1816. Modern chivalry'
+title: "Ex-President John Quincy Adams in Pittsburgh in 1843\r\nAddress of Welcome,\
+  \ by Wilson McCandless, and Mr. Adams' Reply; together with a letter from Mr. Adams\
+  \ Relative to Judge Brackenridge's \"Modern Chivalry.\""
+url: http://www.gutenberg.org/ebooks/38906
